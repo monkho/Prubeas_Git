@@ -4,7 +4,7 @@ public class Tienda{
   public Tienda(){
 
   }
-  public Tienda(){
-
+  public Tienda(String nombre){
+    this.nombre = nombre;
   }
 }
